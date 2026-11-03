@@ -1,0 +1,23 @@
+{
+  "product": "ULSA EVO",
+  "publisher": "StratoVision LLC.",
+  "purpose": "Simplified exterior reference for space planning, independent accessory design and visualization",
+  "model": {
+    "path": "models/ULSA_EVO_Exterior_Reference.step",
+    "sha256": "d74036c8e1c26ca43cd0800746299f24e4c6d96eeabd3947e63e36236966daa1",
+    "bytes": 15527732,
+    "format": "STEP AP242",
+    "units": "mm",
+    "up_axis": "+Y",
+    "solid_count": 1,
+    "brep_valid": true,
+    "size_xyz_mm": [
+      50.0,
+      66.312,
+      50.55
+    ],
+    "bounding_box_is_product_specification": false
+  },
+  "license": "LicenseRef-STRVSN-Reference-Model",
+  "license_file": "LICENSE"
+}

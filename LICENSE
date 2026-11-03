@@ -1,0 +1,94 @@
+STRVSN Reference Model License
+
+Copyright (c) 2026 StratoVision LLC. All rights reserved except as expressly
+granted below. Custom license identifier: LicenseRef-STRVSN-Reference-Model.
+
+1. Scope
+
+"Materials" means the CAD models, preview images, illustrations and accompanying
+documentation distributed in this repository. "Product" means the ULSA EVO
+sensor represented by the Materials. This is a limited reference-use license,
+not an open-source hardware or product-manufacturing license.
+
+2. Permission
+
+Subject to these terms, StratoVision LLC. grants you a worldwide, non-exclusive,
+royalty-free license under its copyright in the Materials to:
+
+(a) use, copy, convert and modify the Materials for viewing, visualization,
+    dimensional reference, fit and clearance planning, and product integration;
+(b) design, manufacture and sell independent mounting brackets, supports,
+    fixtures, carriers and other accessories for use with the Product,
+    including in commercial projects;
+(c) create and publish images, videos, presentations and other visualizations
+    incorporating the Materials, including commercial and promotional work;
+(d) make non-functional physical mockups for fit checks, evaluation, training
+    or display, including through contractors working on your behalf; and
+(e) redistribute original or modified digital copies of the Materials under
+    this same license, subject to Section 3.
+
+Your independently authored accessory designs and visualizations need not be
+licensed under these terms. Any underlying Materials redistributed with them
+remain subject to this license. A visualization means a visual depiction, not
+a distributable 3D model disguised as an image, video or scene asset.
+
+3. Notices and attribution
+
+Keep this license and copyright notice with redistributed Materials, identify
+material modifications, and identify the original distribution source.
+Do not imply that modified Materials are official or validated by StratoVision
+LLC. For published visualizations, provide attribution in a reasonable location,
+such as the caption, credits, description, documentation or accompanying page:
+
+"ULSA EVO reference model (c) StratoVision LLC. —
+https://github.com/strvsn/ulsa-evo-3d-models"
+
+Attribution need not be embedded in every image or video frame. Private use and
+internal evaluation do not require public attribution.
+
+4. Reserved uses and rights
+
+Except for the non-functional mockups permitted by Section 2(d), this license
+does not permit using the Materials to manufacture, have manufactured or sell
+the Product, a replica sensor, or Product components such as replacement
+housings, sensing structures or other copied parts. Selling physical replicas
+or presenting a mockup as a functioning Product is not licensed. Independent
+accessories described in Section 2(b) are expressly permitted.
+
+No rights in patents, registered designs or other industrial property rights
+are granted by implication. No trademark license is granted except to retain
+marks already embedded in permitted copies or to identify the Product fairly
+in permitted visualizations. Do not extract or adopt STRVSN or ULSA EVO marks
+as your own branding, or imply sponsorship, certification or endorsement.
+Other rights remain reserved. Nothing here restricts uses or exceptions that
+applicable law permits independently of this license.
+
+5. Reference model; no warranty
+
+The Materials are simplified exterior references. They are not manufacturing
+drawings or a source of guaranteed
+dimensions, tolerances, thread details, material properties, mass, center of
+gravity, structural strength, airflow behavior or sensor performance.
+
+The Materials are provided "AS IS", without warranties of accuracy,
+merchantability, fitness for a particular purpose or non-infringement, to the
+extent permitted by law. Verify critical dimensions and integration against
+actual hardware and current authorized product documentation. Illustrations
+of mounting concepts do not establish compatibility or operational suitability.
+
+6. Liability and termination
+
+To the extent permitted by applicable law, StratoVision LLC. is not liable for
+claims, damages or other liability arising from use of the Materials. This
+license does not exclude liability that cannot lawfully be excluded.
+
+The permissions above terminate upon your material breach of these terms and
+are reinstated if you cure the breach within 30 days of discovering it.
+Termination does not affect recipients who continue to comply independently.
+
+7. Other permissions and language
+
+Uses outside this license require separate written permission from StratoVision
+LLC. Contact the publisher through https://ulsa-evo.strvsn.net/.
+The English text of this license controls; translations are provided for
+convenience.

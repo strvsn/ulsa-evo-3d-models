@@ -1,0 +1,7 @@
+*.step -diff
+*.png binary
+*.jpg binary
+*.zip binary
+*.md text eol=lf
+LICENSE text eol=lf
+*.json text eol=lf
