@@ -1,6 +1,6 @@
 # ULSA EVO — 外形参照用3Dモデル
 
-[English](README.md) · [製品サイト](https://ulsa-evo.strvsn.net/) · [配布パッケージ](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
+[日英併記版 / Bilingual](README.md) · [製品サイト](https://ulsa-evo.strvsn.net/) · [配布パッケージ](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
 
 ![ULSA EVO 3D Model — STEP外形参照モデル](assets/ogp-3d-models.jpg)
 
