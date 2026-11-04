@@ -8,7 +8,7 @@
 
 [製品サイト](https://ulsa-evo.strvsn.net/) · [配布パッケージ](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
 
-StratoVision LLC.の超音波風速計 **ULSA EVO** の簡易外形モデルです。設置スペース、独立した周辺機器の設計、画像・動画制作などに利用できます。
+StratoVision LLC.の超音波風速センサー **ULSA EVO** の簡易外形モデルです。設置スペース、独立した周辺機器の設計、画像・動画制作などに利用できます。
 
 **外形参照用のデータです。** 製造図面やオープンソースハードウェア設計データではありません。重要な寸法・接続部は実機と最新の正規製品資料で確認してください。
 
