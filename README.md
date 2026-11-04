@@ -8,9 +8,9 @@
 
 [製品サイト](https://ulsa-evo.strvsn.net/) · [配布パッケージ](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
 
-STRVSN / StratoVision LLC.の超音波風速計 **ULSA EVO** の簡易外形モデルです。設置スペース、独立した周辺機器の設計、画像・動画制作などに利用できます。
+StratoVision LLC.の超音波風速計 **ULSA EVO** の簡易外形モデルです。設置スペース、独立した周辺機器の設計、画像・動画制作などに利用できます。
 
-**外形参照用のデータです。** 製造図面やオープンソースハードウェア設計ではありません。重要な寸法・接続部は実機と最新の正規製品資料で確認してください。
+**外形参照用のデータです。** 製造図面やオープンソースハードウェア設計データではありません。重要な寸法・接続部は実機と最新の正規製品資料で確認してください。
 
 ### ダウンロード
 
@@ -19,17 +19,6 @@ STRVSN / StratoVision LLC.の超音波風速計 **ULSA EVO** の簡易外形モ�
 - [モデルの説明](docs/MODEL_NOTES.md)・[ファイル情報](model-manifest.json)
 
 STEPファイルのページで **Download raw file** を選ぶと保存できます。再配布時にはライセンス・注意事項を添付してください。
-
-### モデル情報
-
-| 項目 | 内容 |
-| --- | --- |
-| 形式・単位 | STEP AP242 / mm |
-| ボディ | 有効なソリッド1個 |
-| 上方向 | +Y |
-| 外接寸法 X × Y × Z | 約50.000 × 66.312 × 50.550 mm |
-
-外接寸法は突起を含むこのデータの計測値です。製品仕様値や公差の保証値ではありません。
 
 ### 用途と留意事項
 
@@ -41,7 +30,7 @@ STEPファイルのページで **Download raw file** を選ぶと保存でき�
 
 ### ライセンス
 
-[STRVSN Reference Model License](LICENSE)は、**商用の周辺機器設計・画像制作を許可**し、出典表示や再配布条件を定めています。収まり確認・展示用の非機能モックアップも許可します。**センサー本体・部品の複製製造、および物理的な複製品の販売は許諾しません。**
+[StratoVision Reference Model License](LICENSE)は、**商用の周辺機器設計・画像制作を許可**し、出典表示や再配布条件を定めています。収まり確認・展示用の非機能モックアップも許可します。**センサー本体・部品の複製製造、および物理的な複製品の販売は許諾しません。**
 
 参照用途の独自ライセンスであり、オープンソースハードウェアのライセンスではありません。独自に作成した周辺機器設計や画像・動画に同じライセンスの適用を強制しません。ただし、再配布するモデルデータには本条件が適用されます。商標・産業財産権は留保します。[英語原文](LICENSE)と[日本語訳](docs/LICENSE.ja.md)を参照してください。
 
@@ -60,9 +49,9 @@ Copyright © 2026 StratoVision LLC.
 
 [Product](https://ulsa-evo.strvsn.net/) · [Download package](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
 
-A simplified exterior reference of the **ULSA EVO ultrasonic wind sensor**, published by STRVSN / StratoVision LLC. for space planning, independent accessory design and visualization.
+A simplified exterior reference of the **ULSA EVO ultrasonic wind sensor**, published by StratoVision LLC. for space planning, independent accessory design and visualization.
 
-**Reference use only.** This is not a manufacturing drawing or an open-source hardware design. Critical dimensions and interfaces must be checked against actual hardware and current product documentation.
+**Reference use only.** This is not a manufacturing drawing or open-source hardware design data. Critical dimensions and interfaces must be checked against actual hardware and current product documentation.
 
 ### Download
 
@@ -71,17 +60,6 @@ A simplified exterior reference of the **ULSA EVO ultrasonic wind sensor**, publ
 - [Model notes](docs/MODEL_NOTES.md) and [file information](model-manifest.json)
 
 Use **Download raw file** on the STEP file page. Include the license and notices when redistributing the model.
-
-### Model information
-
-| Property | Value |
-| --- | --- |
-| Format / units | STEP AP242 / millimeters |
-| Bodies | One valid solid |
-| Up axis | +Y |
-| File bounding box, X × Y × Z | Approximately 50.000 × 66.312 × 50.550 mm |
-
-The bounding box includes modeled protrusions and describes this file only. It is not a guaranteed product dimension or tolerance.
 
 ### Intended use
 
@@ -93,7 +71,7 @@ The graphics depict the supplied reference geometry. Rendering materials are ill
 
 ### License
 
-The [STRVSN Reference Model License](LICENSE) permits **commercial accessory design and visualization**, with attribution and redistribution conditions. Non-functional fit-check and display mockups are also permitted. **Reproduction manufacturing of the sensor or its components, and sales of physical replicas, are not licensed.**
+The [StratoVision Reference Model License](LICENSE) permits **commercial accessory design and visualization**, with attribution and redistribution conditions. Non-functional fit-check and display mockups are also permitted. **Reproduction manufacturing of the sensor or its components, and sales of physical replicas, are not licensed.**
 
 This is a custom reference-use license, not an open-source hardware license. Independently authored accessory designs and visualizations do not have to adopt these terms; redistributed model data remains subject to them. Trademarks and industrial property rights are reserved. See [LICENSE](LICENSE) and its [Japanese translation](docs/LICENSE.ja.md).
 
