@@ -14,11 +14,16 @@ StratoVision LLC.の超音波風速センサー **ULSA EVO** の簡易外形モ�
 
 ### ダウンロード
 
-- [STEPモデル](models/ULSA_EVO_Exterior_Reference.step)
+- [STEPモデル](models/ULSA_EVO_Exterior_Reference.step) — CAD向けソリッド
+- [STLモデル](models/ULSA_EVO_Exterior_Reference.stl) — mm単位で読み込み
+- [3MFモデル](models/ULSA_EVO_Exterior_Reference.3mf) — 単位を含むメッシュ
+- [USDZモデル](models/ULSA_EVO_Exterior_Reference.usdz) — Apple系ビューアー・AR向け
 - [ライセンス・注意事項を含む配布パッケージ](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
 - [モデルの説明](docs/MODEL_NOTES.md)・[ファイル情報](model-manifest.json)
 
-STEPファイルのページで **Download raw file** を選ぶと保存できます。再配布時にはライセンス・注意事項を添付してください。
+各モデルのページで **Download raw file** またはダウンロードボタンを選ぶと保存できます。配布パッケージには4形式とライセンス・注意事項を同梱しています。再配布時にもライセンス・注意事項を添付してください。
+
+STL・3MFはZ上向き、USDZはY上向きです。STLはmm単位で読み込んでください。メッシュ形式はSTEPから変換した近似形状です。用途別の座標・単位は[モデルの説明](docs/MODEL_NOTES.md)を参照してください。
 
 ### 用途と留意事項
 
@@ -55,11 +60,16 @@ A simplified exterior reference of the **ULSA EVO ultrasonic wind sensor**, publ
 
 ### Download
 
-- [STEP model](models/ULSA_EVO_Exterior_Reference.step)
+- [STEP model](models/ULSA_EVO_Exterior_Reference.step) — solid for CAD
+- [STL model](models/ULSA_EVO_Exterior_Reference.stl) — import in millimeters
+- [3MF model](models/ULSA_EVO_Exterior_Reference.3mf) — mesh with explicit units
+- [USDZ model](models/ULSA_EVO_Exterior_Reference.usdz) — Apple viewers and AR
 - [Package with license and notices](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
 - [Model notes](docs/MODEL_NOTES.md) and [file information](model-manifest.json)
 
-Use **Download raw file** on the STEP file page. Include the license and notices when redistributing the model.
+Use **Download raw file** or the download button on each model page. The package includes all four formats, the license and notices. Include the license and notices when redistributing the model.
+
+STL and 3MF are Z-up; USDZ is Y-up. Import STL in millimeters. Mesh formats approximate the STEP geometry. See [model notes](docs/MODEL_NOTES.md) for units and coordinate conventions.
 
 ### Intended use
 

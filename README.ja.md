@@ -10,11 +10,16 @@ StratoVision LLC.の超音波風速センサー **ULSA EVO** の簡易外形モ�
 
 ## ダウンロード
 
-- [STEPモデル](models/ULSA_EVO_Exterior_Reference.step)
+- [STEPモデル](models/ULSA_EVO_Exterior_Reference.step) — CAD向けソリッド
+- [STLモデル](models/ULSA_EVO_Exterior_Reference.stl) — mm単位で読み込み
+- [3MFモデル](models/ULSA_EVO_Exterior_Reference.3mf) — 単位を含むメッシュ
+- [USDZモデル](models/ULSA_EVO_Exterior_Reference.usdz) — Apple系ビューアー・AR向け
 - [ライセンス・注意事項を含む配布パッケージ](https://github.com/strvsn/ulsa-evo-3d-models/releases/latest)
 - [モデルの説明](docs/MODEL_NOTES.md)・[ファイル情報](model-manifest.json)
 
-STEPファイルのページで **Download raw file** を選ぶと保存できます。再配布時にはライセンス・注意事項を添付してください。
+各モデルのページで **Download raw file** またはダウンロードボタンを選ぶと保存できます。配布パッケージには4形式とライセンス・注意事項を同梱しています。再配布時にもライセンス・注意事項を添付してください。
+
+STL・3MFはZ上向き、USDZはY上向きです。STLはmm単位で読み込んでください。メッシュ形式はSTEPから変換した近似形状です。用途別の座標・単位は[モデルの説明](docs/MODEL_NOTES.md)を参照してください。
 
 ## 用途と留意事項
 

@@ -1,4 +1,7 @@
 *.step -diff
+*.stl binary
+*.3mf binary
+*.usdz binary
 *.png binary
 *.jpg binary
 *.zip binary

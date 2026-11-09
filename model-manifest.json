@@ -19,5 +19,52 @@
     "bounding_box_is_product_specification": false
   },
   "license": "LicenseRef-StratoVision-Reference-Model",
-  "license_file": "LICENSE"
+  "license_file": "LICENSE",
+  "derived_models": [
+    {
+      "path": "models/ULSA_EVO_Exterior_Reference.stl",
+      "sha256": "3a4a786e80fb1ba2feefd101b8d41e7f9ce4cb4d0e93a03585e1f8e2e5e0ea90",
+      "bytes": 6060284,
+      "format": "Binary STL",
+      "units": "mm (implicit; select millimeters on import)",
+      "up_axis": "+Z",
+      "mesh_count": 1,
+      "triangle_count": 121204,
+      "watertight": true,
+      "grounded": true,
+      "source_model": "models/ULSA_EVO_Exterior_Reference.step",
+      "source_sha256": "8cc80e51b3f70a6d82b02ee3fb10952a60d5f17a7140c8ed0ba02bbc0602377e",
+      "approximate_mesh": true
+    },
+    {
+      "path": "models/ULSA_EVO_Exterior_Reference.3mf",
+      "sha256": "f4dde094d8cd8c2f99d3fbec4b603b278419270b8f79025f8a40857e35eca3d7",
+      "bytes": 1850898,
+      "format": "3MF Core",
+      "units": "mm",
+      "up_axis": "+Z",
+      "mesh_count": 1,
+      "triangle_count": 121204,
+      "watertight": true,
+      "grounded": true,
+      "source_model": "models/ULSA_EVO_Exterior_Reference.step",
+      "source_sha256": "8cc80e51b3f70a6d82b02ee3fb10952a60d5f17a7140c8ed0ba02bbc0602377e",
+      "approximate_mesh": true
+    },
+    {
+      "path": "models/ULSA_EVO_Exterior_Reference.usdz",
+      "sha256": "2b13a3759cca73fe017a7d5f548784703413833b08cc96fed03a72ac4975dd8d",
+      "bytes": 5551870,
+      "format": "USDZ",
+      "units": "m",
+      "up_axis": "+Y",
+      "mesh_count": 1,
+      "triangle_count": 121204,
+      "watertight": true,
+      "grounded": true,
+      "source_model": "models/ULSA_EVO_Exterior_Reference.step",
+      "source_sha256": "8cc80e51b3f70a6d82b02ee3fb10952a60d5f17a7140c8ed0ba02bbc0602377e",
+      "approximate_mesh": true
+    }
+  ]
 }
